@@ -86,7 +86,6 @@
 }
 
 .card__title {
-  display: flex;
   align-items: center;
   background: #222;
   border-radius: 0.5rem;
