@@ -19,7 +19,7 @@ export default {
 
 <style lang="scss" scoped>
 .view-container {
-  width: 80%;
+  width: 75%;
   padding: 0.5rem;
   margin-left: 6rem;
 }
