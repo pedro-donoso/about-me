@@ -94,7 +94,7 @@
 
 .card__content{
 text-align: justify;
-height: 2rem;
+
 }
 
 
