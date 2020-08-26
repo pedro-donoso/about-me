@@ -80,6 +80,7 @@
   margin: 0.5rem;
   background: rgb(36, 77, 167);
   padding: 0.5rem;
+  border-radius: 0.5rem;
   color: #fff;
   width: 100%;
 }
@@ -88,7 +89,7 @@
   display: flex;
   align-items: center;
   background: #222;
-
+  border-radius: 0.5rem;
 
 }
 
