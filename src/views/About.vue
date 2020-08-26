@@ -62,13 +62,13 @@
 </ul>
 
 <h6>Universidad de Santiago de Chile (2016-2020)</h6>
-<h5>Geomensura</h5>
+<h6>Geomensura</h6>
 
 <h6>Universidad de las Américas (2006-2009)</h6>
-<h5>Topografía</h5>
+<h6>Topografía</h6>
 
 <h6>Centro Educacional San Mateo (2002-2005)</h6>
-<h5>Dibujante Técnico</h5>
+<h6>Dibujante Técnico</h6>
 
     </div>
   </div>
@@ -105,7 +105,7 @@ text-align: justify;
 }
 
 .table {
-  width: 95%;
+  width: 90%;
   border-spacing: 0;
 
   tr,
