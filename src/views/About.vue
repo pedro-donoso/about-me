@@ -8,7 +8,7 @@
 
     <div class="card__description">
 
-<h6>Experiencia</h6>
+<h6>Experiencia:</h6>
 <br>
 
   <h6>Programa Talento Digital (2020)</h6>
