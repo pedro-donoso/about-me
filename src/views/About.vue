@@ -77,18 +77,19 @@
 <style lang="scss" scoped>
 #card {
   font-family: "Montserrat", sans-serif;
-  margin: 1rem;
+  margin: 0.5rem;
   background: rgb(36, 77, 167);
-  padding: 1rem;
-  border-radius: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
   color: #fff;
+  width: 100%;
 }
 
 .card__title {
   display: flex;
   align-items: center;
   background: #222;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 
 .card__content{
@@ -96,18 +97,15 @@ padding: 0.5rem;
 text-align: justify;
 }
 
-.cuadro{
-  border: 1px solid blue;
-  padding: 1rem 0;
-}
+
 
 .card__description {
-  line-height: 1.2rem;
+  line-height: 1rem;
   margin: 1rem auto;
 }
 
 .table {
-  width: 70%;
+  width: 100%;
   border-spacing: 0;
 
   tr,
