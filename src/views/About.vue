@@ -2,30 +2,30 @@
   <div id="card">
     <div class="card__title">
       <div class="card__content">
-        <h5>Pedro Donoso - Front-end Developer</h5>
+        <h6>Pedro Donoso - Front-end Developer</h6>
       </div>
     </div>
 
     <div class="card__description">
 
-<h5>Experiencia</h5>
+<h6>Experiencia</h6>
 <br>
 
   <h6>Programa Talento Digital (2020)</h6>
-<h5>Front-end Developer VueJS :</h5>
+<h6>Front-end Developer VueJS :</h6>
 <p class="card__content">Bootcamp de Desarrollo realizado en conjunto por Academia Desafío Latam y Cámara de Comercio de Santiago, sobre Fundamentos Web, CSS Avanzado, Programación con JavaScript, Fundamentos de componentes con Vue JS, entre otras habilidades de Programación.</p>
 
 <h6>Universidad de Santiago de Chile (2019)</h6>
-<h5>Investigador Smart Cities :</h5>
+<h6>Investigador Smart Cities :</h6>
 <p class="card__content">Área de Investigación Tesis, “La aportación de la Ingeniería en Geomensura y el Análisis de Big Data al desarrollo de Ciudades Inteligentes (Smart Cities).</p>
 
 <h6>Oficina Catastro Lo Prado (2016-2018)</h6>
-<h5>Administrador GIS</h5>
+<h6>Administrador GIS</h6>
 <p class="card__content">Encargado de realizar Webmapping con Arc Gis y software libre QGIS sobre: Seguridad, Áreas verdes, Tránsito, Comercio. Equipo logra desarrollar plataforma web para visualizaciones de sectores vulnerables para gestionar soluciones y planes sociales para mejorar distribución de recursos.</p>
 
 <hr>
 
-<h5>Habilidades Programación</h5>
+<h6>Habilidades Programación</h6>
 
       <table class="table table-dark">
         <thead>
@@ -80,7 +80,6 @@
   margin: 0.5rem;
   background: rgb(36, 77, 167);
   padding: 0.5rem;
-  border-radius: 0.5rem;
   color: #fff;
   width: 100%;
 }
@@ -89,12 +88,13 @@
   display: flex;
   align-items: center;
   background: #222;
-  border-radius: 0.5rem;
+
+
 }
 
 .card__content{
-padding: 0.5rem;
 text-align: justify;
+height: 2rem;
 }
 
 
