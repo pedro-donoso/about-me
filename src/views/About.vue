@@ -21,7 +21,7 @@
 
 <h6>Oficina Catastro Lo Prado (2016-2018)</h6>
 <h6>Administrador GIS</h6>
-<p class="card__content">Encargado de realizar Webmapping con Arc Gis y software libre QGIS sobre: Seguridad, Áreas verdes, Tránsito, Comercio. Equipo logra desarrollar plataforma web para visualizaciones de sectores vulnerables para gestionar soluciones y planes sociales para mejorar distribución de recursos.</p>
+<p class="card__content">Encargado de realizar Webmapping con Arc Gis y software libre QGIS sobre: Seguridad, Áreas verdes, Tránsito, Comercio. Equipo logra desarrollar plataforma web para visualizaciones de sectores vulnerables para gestionar la distribución de recursos.</p>
 
 <hr>
 
@@ -105,7 +105,7 @@ text-align: justify;
 }
 
 .table {
-  width: 100%;
+  width: 95%;
   border-spacing: 0;
 
   tr,
