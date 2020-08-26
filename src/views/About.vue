@@ -101,7 +101,7 @@ height: 2rem;
 
 
 .card__description {
-  line-height: 1rem;
+  line-height: 1.5;
   margin: 1rem auto;
 }
 
