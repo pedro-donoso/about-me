@@ -2,7 +2,7 @@
   <div id="card">
     <div class="card__title">
       <div class="card__content">
-        <h5>Pedro Donoso - Front-end Developer VueJS</h5>
+        <h5>Pedro Donoso - Front-end Developer</h5>
       </div>
     </div>
 
@@ -13,7 +13,7 @@
 
   <h6>Programa Talento Digital (2020)</h6>
 <h5>Front-end Developer VueJS :</h5>
-<p class="card__content">Bootcamp de Desarrollo Front-end VueJS realizado en conjunto por Academia Desafío Latam y Cámara de Comercio de Santiago, sobre Fundamentos Web, CSS Avanzado, Programación con JavaScript, Fundamentos de componentes web con Vue JS, Taller de Apresto Laboral entre otros.</p>
+<p class="card__content">Bootcamp de Desarrollo realizado en conjunto por Academia Desafío Latam y Cámara de Comercio de Santiago, sobre Fundamentos Web, CSS Avanzado, Programación con JavaScript, Fundamentos de componentes con Vue JS, entre otras habilidades de Programación.</p>
 
 <h6>Universidad de Santiago de Chile (2019)</h6>
 <h5>Investigador Smart Cities :</h5>
@@ -21,7 +21,7 @@
 
 <h6>Oficina Catastro Lo Prado (2016-2018)</h6>
 <h5>Administrador GIS</h5>
-<p class="card__content">Encargado de realizar mapas web con Arc Gis y software libre QGIS sobre: Seguridad, Áreas verdes, Tránsito, Comercio. Equipo logra desarrollar plataforma web para visualizaciones de sectores vulnerables para gestionar soluciones y planes sociales para mejorar la comuna.</p>
+<p class="card__content">Encargado de realizar Webmapping con Arc Gis y software libre QGIS sobre: Seguridad, Áreas verdes, Tránsito, Comercio. Equipo logra desarrollar plataforma web para visualizaciones de sectores vulnerables para gestionar soluciones y planes sociales para mejorar distribución de recursos.</p>
 
 <hr>
 
